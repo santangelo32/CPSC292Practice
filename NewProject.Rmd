@@ -11,3 +11,7 @@ This is my practice notebook
 ```{r}
 plot(mtcars$mpg, mtcars$wt)
 ```
+
+```{r}
+plot(DNase$Run, DNase$density)
+```
